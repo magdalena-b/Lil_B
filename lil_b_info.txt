@@ -1,0 +1,14 @@
+Hey yo, I'm Lil B (Little Bot). I can:
+Greet you
+Say bye to you
+Send you a meme
+Recommend some music
+Get you a random number in a range you give me
+Split the bill if you tell me how much everyone paid
+Set a timer
+Get you a panda fact
+Get you a youtube seach link
+Laugh at your inside jokes
+Count channel members
+Tell you how it's going
+If you're not sure how to talk to me, type: .lil_b_get_specific

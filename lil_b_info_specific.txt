@@ -1,0 +1,13 @@
+Response - what you should type:
+Greet - hello, dzien dobry, etc
+Bye - bye, żegnam, etc
+meme - .mem or .meme
+Recommend some music - recommend music, polec muzyke or something similar
+Random number - for example: random 1 10
+Split the bill (I'll tell you who paid more and who paid less than their share),  follow this format - podziel rachunek / split bill / split the bill: Bob - 10.23, Anna - 45.67, Jake - 1.63
+Set a timer - timer 1 h / hours / godzin / godziny, 23 m / min / minutes / minut / minuty, 34 s / sec / seconds / sekund / sekundy (every time unit is optional)
+Panda fact - panda, pandy
+Youtube search link: youtube <query> or yt <query>
+Add inside joke - inside joke <inside_joke>, I will laugh when the joke appears in some message
+Count channel members - count members, policz uzytkownikow, policz użytkowników
+How it's going - how are you, co tam or something similar
